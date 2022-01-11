@@ -1,1 +1,5 @@
-"# kafka_project" 
+##Kafka Project
+
+Producer from twitter trend topics and google trends
+
+Consumer to MongoDB 
