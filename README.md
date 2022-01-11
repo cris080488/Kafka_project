@@ -1,5 +1,5 @@
-##Kafka Project
+## Kafka Project
 
-Producer from twitter trend topics and google trends
+**Python producer** read the twitter and google trend trending topics
 
-Consumer to MongoDB 
+**Python consumer** receive the json docs and store in MongoDB 
